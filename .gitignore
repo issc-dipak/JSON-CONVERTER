@@ -1,0 +1,35 @@
+# Node dependencies
+node_modules/
+
+# Environment variables (IMPORTANT)
+.env
+.env.local
+.env.production
+.env.development
+
+# Build outputs
+build/
+dist/
+
+# Uploaded files / temp
+uploads/
+tmp/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Coverage reports
+coverage/
+
+# Cache
+.cache/
